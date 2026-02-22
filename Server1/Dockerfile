@@ -1,1 +1,0 @@
-# Dockerfile для Server0

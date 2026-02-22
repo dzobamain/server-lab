@@ -80,11 +80,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/volodymyrdzoba/it-hub/itstep/server-lab/Server0/Server0App/Server0App.csproj",
+      "projectUniqueName": "/Users/volodymyrdzoba/it-hub/itstep/server-lab/Server0App/Server0App.csproj",
       "projectName": "Server0App",
-      "projectPath": "/Users/volodymyrdzoba/it-hub/itstep/server-lab/Server0/Server0App/Server0App.csproj",
+      "projectPath": "/Users/volodymyrdzoba/it-hub/itstep/server-lab/Server0App/Server0App.csproj",
       "packagesPath": "/Users/volodymyrdzoba/.nuget/packages/",
-      "outputPath": "/Users/volodymyrdzoba/it-hub/itstep/server-lab/Server0/Server0App/obj/",
+      "outputPath": "/Users/volodymyrdzoba/it-hub/itstep/server-lab/Server0App/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/volodymyrdzoba/.nuget/NuGet/NuGet.Config"

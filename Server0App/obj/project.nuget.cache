@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x9ncUrWS/wY=",
+  "dgSpecHash": "pv9OdBHRLFU=",
   "success": true,
-  "projectFilePath": "/Users/volodymyrdzoba/it-hub/itstep/server-lab/Server1/Server1App/Server1App.csproj",
+  "projectFilePath": "/Users/volodymyrdzoba/it-hub/itstep/server-lab/Server0App/Server0App.csproj",
   "expectedPackageFiles": [
     "/Users/volodymyrdzoba/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
     "/Users/volodymyrdzoba/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
